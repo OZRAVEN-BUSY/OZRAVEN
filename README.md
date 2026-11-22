@@ -1,2 +1,0 @@
-# OZRAVEN
-A Portfolio Website 
